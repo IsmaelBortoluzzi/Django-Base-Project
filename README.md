@@ -1,1 +1,1 @@
-# Projeto-PGP
+# Django-Sample-Project
